@@ -12,4 +12,4 @@ In order to download the original multifile(s), click on the "releases" tab to d
 
 
 # Takedown/Information Request
-Please contact loonatic#1337 on Discord
+Please contact zachary#5939 on Discord
